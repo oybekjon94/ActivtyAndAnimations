@@ -16,3 +16,6 @@ rootProject.name = "ActivtyAndAnimations"
 include ':app'
 include ':multipageactivity'
 include ':animations'
+include ':rotateanimation'
+include ':sharedpreferences'
+include ':userinfoapp'
